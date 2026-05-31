@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"92865aa0ccf23f7f","type":"text","text":"Contrat - client 1","x":140,"y":-120,"width":180,"height":60,"color":"3"},
+		{"id":"004cbb294d87075d","type":"text","text":"Contrat - client 2","x":400,"y":-120,"width":180,"height":60,"color":"5"},
+		{"id":"db1122ff7a1e2543","type":"text","text":"Contrat - client 2","x":140,"y":-10,"width":180,"height":60,"color":"5"},
+		{"id":"122920abe45d0173","type":"text","text":"Contrat - client 1","x":400,"y":-10,"width":180,"height":60,"color":"3"},
+		{"id":"16fafb4a5fa8c97b","type":"text","text":"\"Jour 1\"","x":140,"y":-280,"width":180,"height":60,"color":"6"},
+		{"id":"fef9de485c359746","type":"text","text":"\"Jour 2\"","x":400,"y":-280,"width":180,"height":60,"color":"6"},
+		{"id":"e0b0fe2540346ad6","type":"text","text":"Introduction","x":-160,"y":-70,"width":140,"height":60,"color":"1"},
+		{"id":"81ae1f6d7e563f9b","type":"text","text":"\"Jour 3\"","x":670,"y":-280,"width":220,"height":60,"color":"6"},
+		{"id":"d122b04692d9bdca","x":700,"y":-120,"width":235,"height":60,"color":"4","type":"text","text":"Mission finale - client 1"},
+		{"id":"55d8b4064d45b60b","type":"text","text":"Mission finale - client 2","x":700,"y":-10,"width":235,"height":60,"color":"4"},
+		{"id":"92194d205ccf947f","type":"text","text":"Les deux équipes se confrontent : \n- Client 1 - vole un disque de données\n- Client 2 : braque le coffre-fort de la banque","x":1080,"y":-136,"width":290,"height":186,"color":"4"},
+		{"id":"0a3af5eb90de1955","type":"text","text":"Les deux se confrontent, vous devez faire le choix d'en sauver un","x":1470,"y":-82,"width":300,"height":79,"color":"4"}
+	],
+	"edges":[
+		{"id":"0cceadb8b56d72db","fromNode":"e0b0fe2540346ad6","fromSide":"right","toNode":"92865aa0ccf23f7f","toSide":"left"},
+		{"id":"b11c97082dcb8bad","fromNode":"92865aa0ccf23f7f","fromSide":"right","toNode":"004cbb294d87075d","toSide":"left"},
+		{"id":"624defef1785de17","fromNode":"e0b0fe2540346ad6","fromSide":"right","toNode":"db1122ff7a1e2543","toSide":"left"},
+		{"id":"7c8feeda555e8cd2","fromNode":"db1122ff7a1e2543","fromSide":"right","toNode":"122920abe45d0173","toSide":"left"},
+		{"id":"a485e22cb3d95644","fromNode":"92194d205ccf947f","fromSide":"right","toNode":"0a3af5eb90de1955","toSide":"left"},
+		{"id":"59fc6cd2a0e60ee4","fromNode":"004cbb294d87075d","fromSide":"right","toNode":"d122b04692d9bdca","toSide":"left"},
+		{"id":"e81608af32f45ec0","fromNode":"122920abe45d0173","fromSide":"right","toNode":"55d8b4064d45b60b","toSide":"left"},
+		{"id":"7c21e399bf7fc226","fromNode":"122920abe45d0173","fromSide":"right","toNode":"d122b04692d9bdca","toSide":"left"},
+		{"id":"95f24eb49b49ea99","fromNode":"004cbb294d87075d","fromSide":"right","toNode":"55d8b4064d45b60b","toSide":"left"},
+		{"id":"d6eb6f0f131cb1fb","fromNode":"55d8b4064d45b60b","fromSide":"right","toNode":"92194d205ccf947f","toSide":"left"},
+		{"id":"354f82f949f66b40","fromNode":"d122b04692d9bdca","fromSide":"right","toNode":"92194d205ccf947f","toSide":"left"}
+	]
+}
