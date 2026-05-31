@@ -10,6 +10,7 @@
 - [[402 Payment Required]]
 > **"C’est sous la pression que ressortent les diamants."**
 
+---
 ### Missions à écrire
 - [[Airgap.break]] - *Libérez un prisonnier de l'escouade avant l'opération [[402 Payment Required]]*
 >**"Les barreaux de prisons n'ont jamais bloqué vos ondes."**
@@ -32,7 +33,7 @@
 - [[pAIn.full]] - *Corrompre la base d'apprentissage d'une IA de surveillance fédérale*.
 > **"... Et Hercule battit l'Hydre en la rendant cinglée."**
 - [[SIGKILL]] - *Échapper à une embuscade numérique mortelle en surchargeant et en détruisant le relais sur lequel vous êtes connecté*
-  **"Brûlez tout. Ils vous chercheront dans les cendres."**
+>**"Brûlez tout. Ils vous chercheront dans les cendres."**
 - [[Timeout_Mute]] - *Paralyser les systèmes de communication d'un aéroport pour clouer le jet d'une superstar au sol*
 > **"Destination : Nulle part."**
 - [[Kernel_Panic]] - *Falsifier les dossiers psychiatriques en ligne d'un détective qui s'approche trop  pour le faire interner*
