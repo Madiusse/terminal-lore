@@ -15,7 +15,7 @@
 - ### [[Refs - Narration | Narration]]
 ## Scénario, narration, évolution
 - ### [[Construction de narration]]
-- ### [[Idees de missions - Liste]]
-	- #### [[Idees de missions - Liste#Mission rédigées| Missions redigees]]
-	- #### [[Idees de missions - Liste#Missions à écrire| Missions a ecrire]]
+- ### [[_Idees de missions - Liste]]
+	- #### [[_Idees de missions - Liste#Mission rédigées| Missions redigees]]
+	- #### [[_Idees de missions - Liste#Missions à écrire| Missions a ecrire]]
 - ### [[Niveaux de lectures]]

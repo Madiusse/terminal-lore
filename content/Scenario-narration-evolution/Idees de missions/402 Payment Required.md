@@ -20,4 +20,4 @@ Il va falloir tout préparer, tout calibrer. Rien ne doit dépasser. Plusieurs d
 
 Lors de la fin de la mission, vous remarquez que le client pour qui vous n'avez pas travaillé est aussi dans la prison (ayant sûrement utilisé un autre hacker pour mener à bien sa mission). Les deux équipes se retrouvent confrontées l'une devant l'autre, et vous pouvez faire le choix d'en sauver exclusivement une ; le conflit est inévitable.
 
-*Voir [[402 Payment Required - Schéma narratif.canvas]]*
+*Voir [[402 Payment Required - Schéma narratif (old).canvas]]*

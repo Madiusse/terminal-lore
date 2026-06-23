@@ -46,5 +46,7 @@
 > **"Lâchée dans le torrent ; englouti par les vagues."**
 - [[Light_Theme.bat]] - *Prenez le contrôle des lumières d'un gratte-ciel pour y dessiner le logo d'un groupe écologiste clandestin*
 > **"Nuit. Jour. Nuire."**
-- [[Zer0_Days.log]] - *Manipuler les rapports médicaux et d'assurance pour falsifier le score de santé d'un nouveau-né*
+- [[Zer0_Days.log]] - *Manipuler positivement les rapports médicaux et d'assurance pour falsifier le score de santé d'un nouveau-né*
 > **"Premier cri. Zéro avenir. Premiers secours. Zéro trace."**
+- [[Thermal_Throttling.cmd]] - *Tuer un trilliardaire PDG d'une société de sécurité domotique et militaire en le faisant bouillir dans l'eau de sa piscine.*
+>**"Défaillance système. Surchauffe matérielle."**

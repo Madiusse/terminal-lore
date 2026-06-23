@@ -49,5 +49,5 @@ Après plusieurs missions ensemble, votre objectif se termine dans l'une des ban
 
 Vous n'aviez aucune idée de l'intention de l'un et de l'autre. Un simple quiproquo qui compromet l'opération des deux groupes. Un désaccord qui n'a pas le temps pour les explications. Vous pouvez en sauver un des deux, en coupant les lumières de l'un des deux côtés pour avantager l'un ou l'autre ; ou cela se finira en bain de sang.
 
-*Voir [[402 Payment Required - Schéma narratif.canvas]]*
+*Voir [[402 Payment Required - Schéma narratif (old).canvas]]*
 
