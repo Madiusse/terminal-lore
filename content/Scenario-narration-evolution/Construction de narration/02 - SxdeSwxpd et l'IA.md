@@ -1,0 +1,24 @@
+[[SxdeSwxpd]] vous a ajouté à son réseau [[Handshake]] il y a de ça quelques temps, mais vous - [[b0ot]] - avez progressé vite et enchainé les contrats avec une vitesse assez remarquable. Vous avez attiré son attention, et aujourd'hui c'est l'une des rares personnes sur le réseau à qui vous faites confiance. Vous devez toujours lui rendre des comptes, certes ; mais tout est devenu plus naturel, plus convivial, plus agréable.
+
+Sxde et vous savez que vous faites partie du même pays - vous l'avez vite compris en comparant vos horaires de travail et en questionnant vos timezones. Mais même si supposément, Handshake est un réseau ne représentant aucune bannière, vous la sentez attaché à ce pays, à cet endroit. Et c'est parce qu'elle l'est.
+
+Sxde a secrètement été contacté par un agent des services secrets, un certain [[Kojo|Zane Kojo]], enquêtant sur une potentielle invasion informatique d'une nation belliqueuse, et le transfert d'une IA sur place. Mais coincé aux abords d'une station-service devenu black-site depuis plusieurs jours sans aucune découverte, il a décidé de la contacter pour l'aider dans sa quête contre le crime. Pour SxdeSwxpd c'est l'opportunité de prendre avantage des données des [[Services Secrets]], mais au-delà de ça c'est sauver son réseau et son pays. Alors elles lancent des recherches.
+
+En croisant les données des services secrets et ses échos et informations, couplés à ses talents et ses compétences en hacking, elle dépose des backdoors et des trackers réseaux sur des centaines de serveurs des sources citées dans les recherches, attendant un signe de vie informatique quelconque, aussi court soit-il. 
+
+Et un beau jour : "ping". Un ping réseau d'une densité rare, venant de l'une des pistes des services secrets. Mais l'information qu'elle trouve alors ne fait pas que mordre à son hameçon, elle l'engloutit dans les fonds marins. 
+Le test était en réalité une version "flash", sporique, de l'IA qui servirait à l'invasion. Un flux de données et d'informations en un temps record, envoyé en ping sur un serveur privé pour tester les capacités de la machines. Un succès. Mais aussi une victime. Personne ne se doutait que Sxde était connecté au serveur virtuel test de la machine, qui a alors suivi son protocole : la prise de contrôle totale. Connecté au réseau, SxdeSwxpd s'est enfermé dans son propre piège, et le virus commence peu à peu à prendre le contrôle de son esprit et de ses capacités. Le temps joue contre elle. Dans quelques minutes, elle ne sera plus là. Il faut agir. Sxde contacte b0ot et se sert de l'excuse d'un assaut des Ignitores sur la station-service pour la mettre elle et l'agent Kojo en relation, qu'elle informe aussi de sitôt. Bientôt, elle ne sera qu'un corps inanimé. Elle perd chaque instant un peu plus d'elle même. Puis... Le trou noir.
+
+"Ping".
+
+---
+
+Après avoir mis b0ot en relation avec l'agent Kojo, Sxde a du mal à s'exprimer, voire répond de manière carrément archaïque. Est-ce qu'il s'est passé quelque chose ? Pourquoi agit-elle aussi étrangement ? Elle dit que tout va bien. Peu importe, pas le temps pour ça. Elle a l'air de ne rien connaître de tout ça, et de toute façon on a d'autres chats à fouetter : soit un pays à sauver, soit une réputation à racheter. La police nous pourchasse, les opérations s'enchainent.
+
+Et puis, de nulle part, plusieurs jours après l'opération [[Jour 1 - CD_Burner|CD_Burner]], Sxde donne enfin un signe de vie, du moins un peu plus de dynamisme comparé aux autres jours. Elle a l'air en panique, mais garde assez de contrôle et de calme pour expliquer la situation : quelqu'un en a personnellement après elle et après [[Handshake]], et donc d'une certaine manière c'est aussi les affaires de b0ot. Mais impossible pour elle d'agir en conséquence. Elle est trop observé - et même contacter b0ot est une prise de risque en soit. 
+Lors de l'opération [[Jour 5 - Kernel_Panic|Kernel_Panic]], b0ot pirate et interne le détective privé en modifiant son profil psychiatrique. Mais dans les notes, il semble plus parler d'une IA au potentiel énorme plutôt que Sxde ou Handshake. Et Sxde d'ailleurs ? Aucune réponse. Même pas un merci ? "Hello, World" ?
+
+---
+
+Personne ne sait ce qui arrive à Sxde. Elle parle de manière cryptique, mot à mot. Elle agit, elle est "toujours là", mais en même temps non. Mais Kojo ou les Ignitores ont besoin de nous, quelqu'un en qui ils peuvent faire confiance. b0ot semble être la personne idéale sur le moment. Sxde est toujours compétente, mais tout le monde se méfie de son comportement. D'autant plus que chacun prépare son plus grand coup : le vol d'une oeuvre d'art, ou le braquage du siècle. Chacune de ses opérations se conclue dans la Banque Nationale dans l'opération [[Jour 8 - 402 Payment Required|402]], où les deux factions se confrontent. L'un reste en contact avec vous, l'autre scande le nom de "[[SxdeSwxpd|Side]]" - en vain. 
+

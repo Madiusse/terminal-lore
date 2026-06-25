@@ -14,8 +14,8 @@
 - ### [[Refs - Hacking et Piratage | Hacking et Piratage]]
 - ### [[Refs - Narration | Narration]]
 ## Scénario, narration, évolution
-- ### [[Construction de narration]]
+- ### [[01 - Construction de narration]]
 - ### [[_Idees de missions - Liste]]
 	- #### [[_Idees de missions - Liste#Mission rédigées| Missions redigees]]
 	- #### [[_Idees de missions - Liste#Missions à écrire| Missions a ecrire]]
-- ### [[Niveaux de lectures]]
+- ### [[Niveaux de lectures (old)]]

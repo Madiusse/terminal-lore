@@ -1,18 +1,18 @@
 ### Mission rédigées
-- [[Construction de narration#CD_Burner|CD_Burner]] - mission d'introduction
+- [[Jour 1 - CD_Burner|CD_Burner]] - mission d'introduction
 > **"Allumez votre PC  - et la mèche."**
-- [[CTRL. ALT. ESCAPE.]]
-> **"Quelqu'un vous a vendu. Il reste peu de temps."**
+- [[Jour 2b - CTRL. ALT. ESCAPE.|CTRL. ALT. ESCAPE]]
+> **"Kojo vous a vendu. Il reste peu de temps."**
 - [[(de)FRAG.exe]]
 > **"Des otages piégés au C4 par un groupe sans faille - à moins que..."**
 - [[Fn_Shutdown]]
 > **"Un fanatique, un détonateur, des innocents - à vous de décider ce qui compte vraiment."**
-- [[402 Payment Required]]
+- [[Jour 8 - 402 Payment Required|402 Payment Required]]
 > **"C’est sous la pression que ressortent les diamants."**
 
 ---
 ### Missions à écrire
-- [[Airgap.break]] - *Libérez un prisonnier de l'escouade avant l'opération [[402 Payment Required]]*
+- [[Airgap.break]] - *Libérez un prisonnier de l'escouade avant l'opération [[Jour 8 - 402 Payment Required|402 Payment Required]]*
 >**"Les barreaux de prisons n'ont jamais bloqué vos ondes."**
 - [[Wr0ng_ways.kml]] - *Détourner le GPS et les communications d'un convoi de fourgons blindés automatisés.*
 > **"Recalcul de l'itinéraire. Prenez la prochaine à droite, vers le point de non-retour."**
@@ -36,9 +36,9 @@
 >**"Brûlez tout. Ils vous chercheront dans les cendres."**
 - [[Timeout_Mute]] - *Paralyser les systèmes de communication d'un aéroport pour clouer le jet d'une superstar au sol*
 > **"Destination : Nulle part."**
-- [[Kernel_Panic]] - *Falsifier les dossiers psychiatriques en ligne d'un détective qui s'approche trop  pour le faire interner*
+- [[Jour 5 - Kernel_Panic|Kernel_Panic]] - *Falsifier les dossiers psychiatriques en ligne d'un détective qui s'approche trop  pour le faire interner*
 > **"Son métier - rendre les gens paranos. Faites de son obsession son propre diagnostic."**
-- [[cRAsh_funds.xls]] - *Siphonner les portefeuilles cryptographiques d'un escroc pyramidal avant qu'il ne fuie le pays.*
+- [[Jour 2a - (INCONNU) et (INCONNU)#Mission "Ignitores" cRAsh_funds.xls|cRAsh_funds.xls]] - *Siphonner les portefeuilles cryptographiques d'un escroc pyramidal avant qu'il ne fuie le pays.*
 > **"L'argent virtuel n'a jamais semblé aussi réel que lorsqu'il change subitement de maître."**
 - [[hax_by_pr0xy]] - *Laisser l'empreinte numérique exacte d'un hacker rival sur les serveurs piratés d'Interpol*
 > **"Le crime parfait, c'est effacer ses traces - et y laisser celles d'un autre."**
@@ -49,4 +49,4 @@
 - [[Zer0_Days.log]] - *Manipuler positivement les rapports médicaux et d'assurance pour falsifier le score de santé d'un nouveau-né*
 > **"Premier cri. Zéro avenir. Premiers secours. Zéro trace."**
 - [[Thermal_Throttling.cmd]] - *Tuer un trilliardaire PDG d'une société de sécurité domotique et militaire en le faisant bouillir dans l'eau de sa piscine.*
->**"Défaillance système. Surchauffe matérielle."**
+>**"Erreur système. Surchauffe matérielle."**
