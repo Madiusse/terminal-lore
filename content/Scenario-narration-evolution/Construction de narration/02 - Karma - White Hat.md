@@ -3,7 +3,7 @@ aliases:
   - KARMA White Hat
   - White Hat
 ---
-### White Hat - Aider les [[Services Secrets]] et l'agent [[Kojo]] :
+### White Hat - Aider les [[Services Secrets]] et l'agent [[Zane Kojo]] :
 
 Zane Kojo était disposé dans une station-service servant de couverture aux services secrets. Il était placé là temporairement dû à une alerte grandissante du niveau de menace d'attaque du pays, après des informations trouvées par les services de renseignement qui commencent à transmettre des informations sur une IA développée sur place par des agents infiltrés, mais trop lourde pour être déplacée sur les réseaux. En tant qu'agent des services secrets, sa mission était de repérer des transferts douteux sur la route, mais ce travail qui dure depuis trop longtemps était "trop peu" pour lui : aucun résultat depuis des jours. C'est pour cela qu'il se tourne donc vers [[Handshake]], et plus particulièrement leur leader, [[SxdeSwxpd|Sxde]], qui accepte de l'aider. Sa mission a elle était de trouver n'importe quelle information mennant à cette IA, en ligne ou physiquement, pendant que lui continuait à faire son travail d'enquêteur.
 

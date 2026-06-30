@@ -8,7 +8,7 @@ Vous avez prouvé au fil des jours que vous aviez le talent pour accéder à n'i
 Il va falloir tout préparer, tout calibrer. Rien ne doit dépasser. Plusieurs dizaines de caméras, de codes, d'informations - tout doit être passé au peigne fin. Mais si il y a une opportunité ou une faille, vous la trouverez. Peu importe le temps qu'il vous reste pour vous préparer, ou l'intensité du moment.
 
 ---
-## KARMA White Hat ([[Kojo]]) :
+## KARMA White Hat ([[Zane Kojo]]) :
 - Trouver les plans de la banque
 - Accéder aux données privées de la banque
 - Accéder aux listes de coffres spécialisés sécurisés
