@@ -44,5 +44,5 @@ Anima Mundi est vendue aux enchères à Split. Malik Tavil, PDG de Tavil Domotic
 
 ---
 
-**L'action du jeu commence en mars 2051, à Beira, Mozambique.**
-**b0ot a 24 ans. Il est né en 2027 — l'année des premiers Accords de Proximité.**
+L'action du jeu commence en mars 2051, à Beira, Mozambique.
+b0ot a 24 ans. Il est né en 2027 — l'année des premiers Accords de Proximité.

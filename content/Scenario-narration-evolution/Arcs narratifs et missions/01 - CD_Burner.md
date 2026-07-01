@@ -28,4 +28,10 @@ Un "bang" se fait entendre, puis un Ignitores près de la porte d'entrée tombe 
 "Vous venez d'attaquer une planque de VIGIA. Qui vous a transmis ces informations ?" 
 Ça explique le sous-sol massif que vous avez vu sur les plans tout à l'heure. Pour un agent infiltré de la [[VIGIA]], les services secrets du [[Bloco Austral]], l'homme est surprenamment honnête avec vous. Il vous donne même son nom - agent [[Zane Kojo]], au rapport. C'est louche. Il vous pose des questions sur [[SABLE]] - les services secrets du [[PAO]] - et sur comment on a eu les informations sur ce black-site. VIGIA ? SABLE ? Black-site ? Est-ce un simple quiproquo ?
 
-L'homme embarque le téléphone des Ignitores, et laisse les corps des Ignitores allongés sur le sol. Il prend une voiture et s'en va.
+L'homme embarque le téléphone des Ignitores, et laisse les corps des Ignitores allongés sur le sol. Il prend une voiture, garde le téléphone, et s'en va.
+
+"On en a pas fini. On reste en contact."
+
+... Qu'est-ce qui vient de se passer ?
+
+Suite : [[02a - BH (Ignitores) - Road_Tripped.bin]] **OU** [[02a - WH (Kojo) - LyingStill.op]]
