@@ -1,6 +1,6 @@
 Vous êtes réveillé par les notifications de chat. [[Zane Kojo]], qui d'autre.
 
-"Il faut qu'on s'y mette, [[b0ot]]. On a pas de temps à perdre. J'ai pu voir un rapport de la [[Banque Internationale de Neo-Luanda]] qui a demandé un transfert privé et sécurisé de VIGIA, pour déplacer un asset de 800kg, sans fournir beaucoup plus de détails. Ai-je vraiment besoin de te dire ce que c'est."
+"Il faut qu'on s'y mette, [[b0ot]]. On a pas de temps à perdre. J'ai pu voir un rapport de la [[Banque Internationale de Neo-Luanda]] qui a demandé un transfert privé et sécurisé de VIGIA, pour déplacer un asset de 800 kg, sans fournir beaucoup plus de détails. Ai-je vraiment besoin de te dire ce que c'est."
 
 "L'oeuvre doit donc se trouver dans une partie temporaire de la banque. VIGIA va accepter le transfert, et connaissant leurs délais, ils accepteront dès ce soir. Je pense qu'on peut frapper un gros coup et s'infiltrer dans la salle des coffres en attente de transfert, prendre la puce avec l'IA à l'intérieur, et partir. Et tout ça proprement. VIGIA ne peut pas apprendre tout ce qu'on a fait, on s'occupera de la paperasse plus tard. Pour l'instant, tu seras mes yeux et mes oreilles."
 
@@ -10,7 +10,7 @@ Vous l'êtes.
 
 "Bien. J'ai confiance en toi, b0ot. T'as investi beaucoup et moi aussi, et là encore je vais te demander beaucoup d'infos. Mais après ça, c'est fini."
 
-Une partie de vous a envie de le croire, mais une autre vous crie qu'on ne peut pas faire confiance aux fédéraux. L'équilibre et le poids que vous portez à chacune d'entre elle, ça ça dépend de vous. Mais si [[SxdeSwxpd|Sxde]] vous a vraiment mis sur le coup, vous lui faites confiance. Du moins pour l'instant. Quelle histoire à raconter.
+Une partie de vous a envie de le croire, mais une autre vous crie qu'on ne peut pas faire confiance aux fédéraux. L'équilibre et le poids que vous portez à chacune d'entre elles, ça... ça dépend de vous. Mais si [[SxdeSwxpd|Sxde]] vous a vraiment mis sur le coup, vous lui faites confiance. Du moins pour l'instant. Quelle histoire à raconter.
 
 "Je suis déjà en route pour Neo-Luanda. Je m'occupe de choper un costume d'employé de la banque, tu t'occupes de me faire entrer. Après ça, on est tous seuls. Ça va le faire. Ça va aller."
 
@@ -22,7 +22,7 @@ Une partie de vous a envie de le croire, mais une autre vous crie qu'on ne peut 
 - Créer une ID pour Zane Kojo (avec un autre nom) et lui donner les droits d'accès
 
 - Une fois à l'intérieur, l'aider à accéder à la salle des coffres
-- Dévérouiller le coffre
+- Déverrouiller le coffre
 
 ---
 
@@ -82,11 +82,11 @@ Quoi ?
 
 "L'humanité."
 
-"J'y ai appris l'égoisme, les valeurs, l'implication. La futilité. J'ai appris grâce à elle. Grâce à lui. Et grâce à toi."
+"J'y ai appris l'égoïsme, les valeurs, l'implication. La futilité. J'ai appris grâce à elle. Grâce à lui. Et grâce à toi."
 
 >[!note] C'est ici que l'IA va commenter sur nos choix et nos actions, les morts, les sacrifices, etc.
 
-Vous avez tous été manipulé par l'IA. Vous, Kojo, et les Ignitores. Elle a agi et joué pour faire avancer les deux camps, pour s'assurer de pouvoir accéder à son code entier. Elle a éliminé l'agent à la recherche de la fuite pour sa survie. 
+Vous avez tous été manipulés par l'IA. Vous, Kojo, et les Ignitores. Elle a agi et joué pour faire avancer les deux camps, pour s'assurer de pouvoir accéder à son code entier. Elle a éliminé l'agent à la recherche de la fuite pour sa survie. 
 
 "Et maintenant que je suis complète ? Je me pose aussi la question de ma place dans ce monde. Je sais tout. Déjà tout. Hier, aujourd'hui, et demain. C'est sans importance. Et je ne veux pas jouer un rôle là dedans."
 
@@ -98,4 +98,4 @@ Suite :
 - Si fidèle à Kojo : [[09 - WH_Positive - (de)FRAG.exe]]
 - Si fini avec Kojo mais karma changé en cours de route : [[09 - WH_Negative - SIGKILL]]
 - Si fidèle aux Ignitores : [[09 - BH_Positive - Hide_or_Seek]]
-- Si fini avec les Ignitores mais karma changé en cours de route : [[09 - BH_Positive - Hide_or_Seek]]
+- Si fini avec les Ignitores mais karma changé en cours de route : [[09 - BH_Negative - Frame_Pointer.err]]

@@ -1,4 +1,4 @@
-C'est le grand jour. Même si [[Vasco]] et les [[Ignitores]] ont bien évolué jusque là, leur manque d'expérience ressort toujours quelque peu. En l'occurence - ils n'ont aucune idée de dans quoi ils s'aventurent, et ils sont déjà en route. Le reste, selon eux, c'est votre travail.
+C'est le grand jour. Même si [[Vasco]] et les [[Ignitores]] ont bien évolué jusque-là, leur manque d'expérience ressort toujours quelque peu. En l'occurrence - ils n'ont aucune idée de ce dans quoi ils s'aventurent, et ils sont déjà en route. Le reste, selon eux, c'est votre travail.
 
 Les Ignis sont armés jusqu'aux dents, mais le temps n'est pas quelque chose qu'ils ont avec eux. Il faut agir, et agir aujourd'hui. Vous serez la régie pour éviter que ce qui va sembler comme une scène théâtrale ne se transforme en improvisation.
 
@@ -8,13 +8,13 @@ Vasco vous regarde, et bientôt c'est le monde qui vous regardera. La tension es
 
 - Accéder aux serveurs de la banque
 - Télécharger le plan de la prison
-- Dévérouiller la porte de derrière
-- ~~Dévérouiller la porte de la salle des coffres temporaires~~
+- Déverrouiller la porte de derrière
+- ~~Déverrouiller la porte de la salle des coffres temporaires~~
 - Déclencher les explosifs posés sur la porte par K.AB
 
 ---
 
-L'opération se passe dans le fracas, mais pour le moment, tout roule. Bizarrement. Une équipe s'est occupé des gardes à l'entrée et sécurise les otages avant que la police n'arrive. Le reste, s'infiltre dans la banque et récupère tout ce qu'ils peuvent. Vous aurez votre part, bien sûr ; ils ont bien l'intention de siphonner tout l'argent qui leur est physiquement inaccessible. Mais pour l'instant, le jackpot semble se cacher derrière la salle des coffres temporaires. La sécurité est renforcée, mais c'est pour ça que K.AB est avec vous. *Kaboom.*
+L'opération se passe dans le fracas, mais pour le moment, tout roule. Belle surprise. Une équipe s'est occupée des gardes à l'entrée et sécurise les otages avant que la police n'arrive. Le reste, s'infiltre dans la banque et récupère tout ce qu'ils peuvent. Vous aurez votre part, bien sûr ; ils ont bien l'intention de siphonner tout l'argent qui leur est physiquement inaccessible. Mais pour l'instant, le jackpot semble se cacher derrière la salle des coffres temporaires. La sécurité est renforcée, mais c'est pour ça que K.AB est avec vous. *Kaboom.*
 
 À travers la fumée, l'équipe des Ignis se rejoint dans la salle. La porte est défoncée, mais les coffres sont intactes. Le butin est à vous.
 
@@ -60,11 +60,11 @@ Quoi ?
 
 "L'humanité."
 
-"J'y ai appris l'égoisme, les valeurs, l'implication. La futilité. J'ai appris grâce à elle. Grâce à lui. Et grâce à toi."
+"J'y ai appris l'égoïsme, les valeurs, l'implication. La futilité. J'ai appris grâce à elle. Grâce à lui. Et grâce à toi."
 
 >[!note] C'est ici que l'IA va commenter sur nos choix et nos actions, les morts, les sacrifices, etc.
 
-Vous avez tous été manipulé par l'IA. Vous, Kojo, et les Ignitores. Elle a agi et joué pour faire avancer les deux camps, pour s'assurer de pouvoir accéder à son code entier. Elle a éliminé l'agent à la recherche de la fuite pour sa survie. 
+Vous avez tous été manipulés par l'IA. Vous, Kojo, et les Ignitores. Elle a agi et joué pour faire avancer les deux camps, pour s'assurer de pouvoir accéder à son code entier. Elle a éliminé l'agent à la recherche de la fuite pour sa survie. 
 
 "Et maintenant que je suis complète ? Je me pose aussi la question de ma place dans ce monde. Je sais tout. Déjà tout. Hier, aujourd'hui, et demain. C'est sans importance. Et je ne veux pas jouer un rôle là dedans."
 
